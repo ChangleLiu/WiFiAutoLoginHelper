@@ -1,0 +1,2 @@
+# WiFiAutoLoginHelper
+为了能够在转移教室校园网断连的时候更为快速方便地连接制作
