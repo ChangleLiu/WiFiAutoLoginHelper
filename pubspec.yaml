@@ -1,0 +1,25 @@
+name: ctgu_wifi_login
+description: 三峡大学校园网自动登录助手
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  connectivity_plus: ^5.0.2
+  http: ^1.2.0
+  flutter_secure_storage: ^9.0.0
+  permission_handler: ^11.3.0
+  webview_flutter: ^4.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
